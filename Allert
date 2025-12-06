@@ -4,7 +4,16 @@
   "dialog_background_color": "#252F30",
   "avatar_url": "https://i.ibb.co/DDD2Jp0N/x.jpg",
   "description": "Modified\n1 by @Badboy — Stay updated with the latest modded apps and games. Join my OFFICIAL TELEGRAM CHANNEL for safe and free downloads. 💯",
-  
+  "icons": {
+    "telegram": {
+      "link": "https://t.me/your_channel"
+    },
+    "instagram": {
+      "link": "https://instagram.com/your_profile"
+    },
+    "youtube": {
+      "link": "https://youtube.com/your_channel"
+    }
   },
   "buttons": {
     "cancel_button": {
@@ -29,4 +38,3 @@
     }
   }
 }
-
